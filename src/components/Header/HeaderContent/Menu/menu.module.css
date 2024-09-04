@@ -1,0 +1,27 @@
+.head_ul{
+    display: flex;
+}
+
+.head_li{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.4s ease-in-out;
+    list-style: none;
+}
+
+
+.head_li:hover{
+    color:#a19898;
+    transition: color 0.4s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+
+    .head_ul{
+        display: flex;
+        padding-top: 20px;
+    }
+
+}

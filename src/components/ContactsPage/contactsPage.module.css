@@ -1,0 +1,13 @@
+.firstDiv{
+    margin-top: 20px;
+    font-size: 60px;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: #fff;
+}
